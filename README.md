@@ -53,6 +53,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Its-Ace/FYP-ChronoProject-20220609.git
 git push -u origin main
+
+FOR MORE https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
 ```
 
 ## Updates
