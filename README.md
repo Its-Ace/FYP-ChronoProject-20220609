@@ -47,12 +47,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Git repo bash commmands
 ```
-echo "# webengineeering" >> README.md
+echo "# Chrono" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Its-Ace/webengineeering.git
+git remote add origin https://github.com/Its-Ace/FYP-ChronoProject-20220609.git
 git push -u origin main
 ```
 
