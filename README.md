@@ -7,8 +7,7 @@
   SAP : 2165
   ```
   2. Syed Shahrose Sohail
-  ```
-  Role : Co Lead
+  ``
   SAP : 2164
   ```
   3. Mr. Basharat Hussain
